@@ -1,4 +1,4 @@
-# customer-segmentation-analysis-product-recommender-system
+# Customer-Segmentation-Analysis-Product-Recommender-System
 Analyses customer segmentation, sentiment on product review, and builts a product recommender system
 
 Given 5 dataset: geolocation, products, product name translations, customers, general. I explored these dataset and perform some analysis:
